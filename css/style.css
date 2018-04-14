@@ -1,4 +1,10 @@
-#body1{
+.ma-couleur-rose{
+	background-color: pink;
+}
+.autre-couleur{
+	background-color: purple;
+}
+/*#body1{
 	background-color: gray;
 }
 #titre1{
@@ -17,4 +23,4 @@ input{
 	border: 4px black dashed;
 	color: yellow;
 	width: 300px;
-}
+}*/
